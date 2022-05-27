@@ -9,12 +9,10 @@ This is a minimalist mobile app built using React Native and Expo.
 
 ````sh
     $ npm install --legacy-peer-deps
-    ```
 ````
 
 3. Start expo
 
 ````sh
     $ npm start
-    ```
 ````
